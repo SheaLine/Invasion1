@@ -301,7 +301,7 @@ class MainMap extends Phaser.Scene {
         my.text.wave.setBlendMode(Phaser.BlendModes.ADD);
 
         // HTML Text
-        document.getElementById('description').innerHTML = '<h2>Controls: </h2>A: move left <br> D: move right <br> R: Reload <br> Space: shoot <h2>How To Play: </h2>Rule 1: Don\'t let the aliens reach the ground!<br>Rule 2: Don\'t get hit by a UFO laser!<br>Rule 3: Shoot 20 falling aliens to move to next wave!<br> <h2>GOOD LUCK!!</h2>';
+        document.getElementById('description').innerHTML = '<h2>Controls: </h2>A: move left <br> D: move right <br> R: Reload <br> Space: shoot <h2>How To Play: </h2>Rule 1: Don\'t let the aliens reach the ground!<br>Rule 2: Don\'t get hit by a UFO laser!<br>Rule 3: Shoot 20 falling aliens to go to next wave!<br> <h2>GOOD LUCK!!</h2>';
         
         //temp 
         // this.nextScene = this.input.keyboard.addKey("I");
