@@ -16,7 +16,7 @@ class Title extends Phaser.Scene{
         this.load.audio("theme", "night_tune3.ogg");
     }
     create(){
-        this.themeSong = this.sound.add("theme", {volume: 0.1});
+        this.themeSong = this.sound.add("theme");
         this.themeSong.play();
         
         // for map
