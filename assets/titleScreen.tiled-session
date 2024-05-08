@@ -1,0 +1,69 @@
+{
+    "activeFile": "MainMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#PixelPlatformer": {
+            "scaleInEditor": 1
+        },
+        "#skys": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/sline/Documents/UCSC/CMPM 120/KennyAssets/kenney_pixel-platformer/Tiled/tilemap-example-a.tmx": {
+            "scale": 0.8363247863247862,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 305.503321410322,
+                "y": 213.4338272866633
+            }
+        },
+        "C:/Users/sline/Documents/UCSC/CMPM 120/KennyAssets/kenney_pixel-platformer/Tiled/tileset-characters.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sline/Documents/UCSC/CMPM 120/KennyAssets/kenney_pixel-platformer/Tiled/tileset-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "MainMap.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 143,
+                "y": 211.5
+            }
+        },
+        "MainMap.tmj#objects": {
+            "scaleInDock": 1
+        },
+        "MainMap.tmj#skys": {
+            "scaleInDock": 1
+        },
+        "MainMap.tmx": {
+            "scale": 2.174444444444444,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 113.82217680122638,
+                "y": 70.59274399591214
+            }
+        },
+        "MainMap.tmx#objects": {
+            "scaleInDock": 1
+        },
+        "MainMap.tmx#sky": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/sline/Documents/UCSC/CMPM 120/Game2/GalleryShooter/assets",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+        "MainMap.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "MainMap.tmx",
+        "C:/Users/sline/Documents/UCSC/CMPM 120/KennyAssets/kenney_pixel-platformer/Tiled/tilemap-example-a.tmx",
+        "MainMap.tmj"
+    ]
+}
